@@ -1,3 +1,8 @@
 Linia 1 
 Linia 2
+<<<<<<< HEAD
 linia3
+=======
+linia3
+lina 4
+>>>>>>> parent of 3934448... new changes
